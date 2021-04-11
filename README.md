@@ -1,6 +1,6 @@
-[![GitHub followers](https://img.shields.io/github/followers/fatihkayan20?style=social)](https://github.com/fatihkayan20?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/fatihkayan20?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=fatihkayan20.visitor-badge)](https://GitHub.com/fatihkayan20/StrapDown.js/stargazers/)
+[![GitHub followers](https://img.shields.io/github/followers/kubraterzi?style=social)](https://github.com/kubraterzi?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/kubraterzi?style=social)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=kubraterzi.visitor-badge)](https://GitHub.com/kubraterzi/StrapDown.js/stargazers/)
 
 
 # Hi 👋
