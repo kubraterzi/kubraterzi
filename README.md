@@ -27,10 +27,8 @@ Contact with me via these platforms!
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubraterzi&hide=python&layout=compact&show_icons=true&theme=tokyonight">
   </p>
-  
-  <a href="https://github.com/fatihkayan20/CarRent">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=kubraterzi&repo=CarRent&show_icons=true&theme=tokyonight"</img>
-  </a>
+
+
   <a href="https://github.com/kubraterzi">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=kubraterzi&repo=kubraterzi&show_icons=true&theme=tokyonight"</img>
   </a>
