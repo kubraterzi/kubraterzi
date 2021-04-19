@@ -4,9 +4,9 @@
 
 
 # Hi 👋
-I'm Kübra! I am improving myself on projects related to web.
+I'm Kübra! I improve myself on projects related to web.
 
-Contact with me via these platforms! 
+Contact me via these platforms! 
 
   <a href="https://www.linkedin.com/in/k%C3%BCbra-terzi-7b0b83204/" target="_blank" rel="nofollow"><img alt="Kübra's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kubraterzi0394@gmail.com" target="_blank" rel="nofollow"><img alt="Kübra's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
