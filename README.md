@@ -50,6 +50,6 @@ Contact me via these platforms!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... I graduated from İstanbul Gedik University in 2015
-- 🌱 I’m currently learning ... C#, Java, Angular
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/k%C3%BCbra-terzi-7b0b83204/)
+- 🔭 I graduated from İstanbul Gedik University in 2015
+- 🌱 I’m currently learning React
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/k%C3%BCbra-terzi-7b0b83204/)
